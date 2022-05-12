@@ -315,6 +315,9 @@ gave this short and comprehensive answer:
 
 Soon after his death, the following obituary notice, appeared in one of the public papers:
 
+[.embedded-content-document]
+--
+
 Died, near Mount Holly, on the 12th of this month, in the ninetieth year of his age,
 William Boen, (alias Heston) a coloured man.
 
@@ -341,14 +344,23 @@ as he expressed himself a short time before his death, he felt nothing but weakn
 which continued to increase, until he gently breathed his last; and is, no doubt,
 entered into his heavenly Father`'s rest.
 
-"`Mark the perfect man, and behold the upright: for the end of that man is peace.`"
-Ps. 37:37
+[quote.scripture, , Ps. 37:37]
+____
 
+Mark the perfect man, and behold the upright: for the end of that man is peace.
+____
+
+[.signed-section-context-close]
 6th month, 1824.
+
+--
 
 === Memorial of Mount Holly Monthly Meeting of Friends, Concerning William Boen, a Coloured Man.
 
 Read in the Yearly Meeting of Friends, Held in Philadelphia, 1829.
+
+[quote]
+____
 
 As the memory of those who have followed the leadings
 of that Teacher which leads into all truth,
@@ -444,13 +456,19 @@ and a total disrelish for everything of this world.`"
 His weakness continued to increase until he passed quietly away,
 on the night of the 12th of the 6th month, 1824, in the ninetieth year of his age;
 and we doubt not, he has entered into his heavenly Father`'s rest.
+____
+
+[.small-break]
+'''
 
 Read in, and approved by, Mount Holly monthly meeting of Friends, held 11th month 6th,
 1828.
 
+[.signed-section-signature]
 Amos Bullock, Clerk.
 
 Read in, and approved by, Burlington Quarterly meeting of Friends, held at Chesterfield,
 on the 25th of the 11th month, 1828, and directed to be forwarded to the Yearly Meeting.
 
+[.signed-section-signature]
 Andrew C. Ridgway, Clerk.
